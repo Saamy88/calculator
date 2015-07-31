@@ -1,3 +1,3 @@
- # This is a simple ANDROID calculator _
- # We are changing this file for GitHub purposes! _
+ # This is a simple ANDROID calculator <br />
+ # We are changing this file for GitHub purposes! <br />
  # NEW LINE    
